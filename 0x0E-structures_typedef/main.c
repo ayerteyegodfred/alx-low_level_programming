@@ -1,5 +1,5 @@
-#ifndef _DOG_H_
-#define _DOG_H_
+#ifndef _MAIN_C_
+#define _MAIN_C_
 
 /**
  * dog_t - Typedef for struct dog
